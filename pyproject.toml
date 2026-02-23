@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/nostalgicskinco/air-openai-agents-trust"
-Repository = "https://github.com/nostalgicskinco/air-openai-agents-trust"
-Issues = "https://github.com/nostalgicskinco/air-openai-agents-trust/issues"
+Homepage = "https://github.com/airblackbox/trust-openai-agents"
+Repository = "https://github.com/airblackbox/trust-openai-agents"
+Issues = "https://github.com/airblackbox/trust-openai-agents/issues"
 Documentation = "https://airblackbox.com/docs"
 
 [tool.setuptools.packages.find]
