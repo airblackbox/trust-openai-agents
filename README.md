@@ -1,5 +1,10 @@
 # air-openai-agents-trust
 
+[![CI](https://github.com/airblackbox/trust-openai-agents/actions/workflows/ci.yml/badge.svg)](https://github.com/airblackbox/trust-openai-agents/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/airblackbox/trust-openai-agents/blob/main/LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-3776AB.svg?logo=python&logoColor=white)](https://python.org)
+
+
 **AIR Trust Layer for OpenAI Agents SDK** — Drop-in security, audit, and compliance for OpenAI agent workflows.
 
 Part of the [AIR Blackbox](https://airblackbox.com) ecosystem. Adds tamper-proof audit trails, sensitive data tokenization, consent gates for destructive tools, and prompt injection detection.
