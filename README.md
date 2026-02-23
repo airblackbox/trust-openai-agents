@@ -107,16 +107,16 @@ hooks.scan_input(text)    # Scan for injection (sync)
 
 | Repository | Purpose |
 |-----------|---------|
-| [air-crewai-trust](https://github.com/nostalgicskinco/air-crewai-trust) | Trust layer for CrewAI |
-| [air-langchain-trust](https://github.com/nostalgicskinco/air-langchain-trust) | Trust layer for LangChain |
-| [air-autogen-trust](https://github.com/nostalgicskinco/air-autogen-trust) | Trust layer for AutoGen |
-| **air-openai-agents-trust** | **Trust layer for OpenAI Agents SDK** (this repo) |
+| [trust-crewai](https://github.com/airblackbox/trust-crewai) | Trust layer for CrewAI |
+| [trust-langchain](https://github.com/airblackbox/trust-langchain) | Trust layer for LangChain |
+| [trust-autogen](https://github.com/airblackbox/trust-autogen) | Trust layer for AutoGen |
+| **trust-openai-agents** | **Trust layer for OpenAI Agents SDK** (this repo) |
 
 ## Development
 
 ```bash
-git clone https://github.com/nostalgicskinco/air-openai-agents-trust.git
-cd air-openai-agents-trust
+git clone https://github.com/airblackbox/trust-openai-agents.git
+cd trust-openai-agents
 pip install -e ".[dev]"
 pytest tests/ -v
 ```
